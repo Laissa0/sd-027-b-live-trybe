@@ -1,1 +1,3 @@
-# sd-027-b-live-trybe
+# Repositorio de aulas ao vivo 
+
+Este repositorio armazena os códigos e scripts fornecidos 
